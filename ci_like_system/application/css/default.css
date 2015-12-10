@@ -1,0 +1,75 @@
+body, html {
+    margin: 0 auto;
+}
+body {
+    background: #fff;
+}
+#wrapper {
+    margin: 0 auto;
+    width: 1100px;
+}
+#nav {
+    background-color: #909090;
+    padding: 20px;
+    margin: 50px auto 0 auto;
+    width: 1060px;
+    height: 15px;
+}
+#nav ul {
+    margin: 0 50px;
+    padding: 0;
+}
+#nav li {
+    list-style: none;
+    display: inline;
+    padding: 5px;
+}
+#nav a {
+    text-decoration: none;
+    color: white;
+}
+#nav a:hover {
+    text-decoration: underline;
+    color: #A9C1C1;
+}
+#header {
+
+}
+#header h1 {
+    color: #FF0000;
+    text-shadow: 4px;
+}
+#footer {
+    margin: 0 auto;
+    padding: 10px 0;
+    margin-top: 5px;
+    text-align: center;
+    background-color: #909090;
+}
+#content {
+    width: 1080px;
+    min-height: 100%;
+    margin: 0 auto;
+    padding: 10px;
+}
+#content p {
+    line-height: 130%;
+    text-align: justify;
+}
+
+.like{
+    padding:0px 25px 0px 25px;
+}
+.file_name {
+    
+    width:90px;
+    display:inline-block;
+   
+}
+.down_file{
+    width:400px;
+    display:inline-block;
+}
+.project_id{
+    display:none;
+}
